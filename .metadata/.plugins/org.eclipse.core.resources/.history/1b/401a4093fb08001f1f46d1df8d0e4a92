@@ -1,0 +1,9 @@
+package NASA;
+public class name {
+	public static void main(String[] args) {
+		String[] i = {"1","22"};
+		for(int j = 1; j < i.length; j++) {
+			System.out.println(j);
+		}
+	}
+}

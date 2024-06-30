@@ -1,0 +1,9 @@
+package Number;
+public class Gess extends Number{
+	public static void main(String[] args) {
+		boolean b;
+		boolean b1,b2;
+		boolean bg = true;
+		
+	}	
+}

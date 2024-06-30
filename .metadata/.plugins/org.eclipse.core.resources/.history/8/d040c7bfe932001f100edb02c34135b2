@@ -1,0 +1,4 @@
+package Number;
+public enum eraser {
+	
+}

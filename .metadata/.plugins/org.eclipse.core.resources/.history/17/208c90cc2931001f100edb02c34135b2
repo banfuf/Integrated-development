@@ -1,0 +1,8 @@
+package Number;
+public class Frist{
+	static String s1 = "I love for……";
+	public static void main(String[] args) {
+		System.out.println(s1);
+		System.out.println();
+	}
+}
